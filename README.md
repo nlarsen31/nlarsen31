@@ -1,5 +1,5 @@
 Hi I'm Nick Larsen I an a software engineer. My interests include:
-* CAD/CAM programming C/C++ 
+* CAD/CAM programming. I write custom automation applications for 3D modeling sortware.
 * Machine Learning
 * Keyboard Programming
 * Clean Code!
