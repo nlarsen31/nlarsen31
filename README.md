@@ -1,6 +1,6 @@
 Hi I'm Nick Larsen I an a software engineer. My interests include:
-* CAD/CAM programming. I write custom automation applications for 3D modeling sortware.
-* Machine Learning
+* CAD/CAM programming - I write custom automation applications for 3D modeling sortware.
+* Machine Learning - finished a Master's Degree from Southern Methodist University in December 2022.
 * Keyboard Programming
 * Clean Code!
 
