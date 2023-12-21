@@ -5,7 +5,7 @@ Hi I'm Nick Larsen I an a software engineer. My interests include:
 * Clean Code!
 
 Here are a few of my favorite Side projects:
-* [Hands on Walk through of RL](https://github.com/nlarsen31/Deep-Reinforcement-Learning-Hands-On-Second-Edition)] - Actively working through to gain an understanding of RL 
+* [Hands on Walk through of RL] (https://github.com/nlarsen31/Deep-Reinforcement-Learning-Hands-On-Second-Edition) - Actively working through to gain an understanding of RL 
 * [GAN Training Discriminator weight Setback](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/CelebAGAN.ipynb) - Attempt to traing GANs with a new approach to holding back the discriminator's training. 
   * [Notebook results](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/GraphsForPaper-No-Feature-Matching.ipynb) 
   * [Weight Setback Paper](https://github.com/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/Discriminator_Weight_Stepback.pdf)
