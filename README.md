@@ -4,6 +4,7 @@ Hi I'm Nick Larsen I an a software engineer. My interests include:
 * Keyboard Programming
 * Clean Code!
 
+Heres my [resume](https://github.com/nlarsen31/Resume)!
 Here are a few of my favorite Side projects:
 * [Eurche in GoDot](https://github.com/nlarsen31/EurcheGoDot) - First attempt at makig a video game!
 * [Hands on Walk through of RL](https://github.com/nlarsen31/Deep-Reinforcement-Learning-Hands-On-Second-Edition) - Actively working through to gain an understanding of RL 
