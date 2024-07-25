@@ -4,9 +4,9 @@ Hi I'm Nick Larsen I an a software engineer. My interests include:
 * Keyboard Programming
 * Clean Code!
 
-Heres my [resume](https://github.com/nlarsen31/Resume/blob/63bc21a0ba4e8d5ea0b39c12b8c58a011f266f35/OnePageResume/resume.pdf)!
+Here's my [resume](https://github.com/nlarsen31/Resume/blob/63bc21a0ba4e8d5ea0b39c12b8c58a011f266f35/OnePageResume/resume.pdf)!
 Here are a few of my favorite Side projects:
-* [Eurche in GoDot](https://github.com/nlarsen31/EurcheGoDot) - First attempt at makig a video game!
+* [Eurche in GoDot](https://github.com/nlarsen31/EurcheGoDot) - First attempt at making a video game!
 * [Hands on Walk through of RL](https://github.com/nlarsen31/Deep-Reinforcement-Learning-Hands-On-Second-Edition) - Actively working through to gain an understanding of RL 
 * [GAN Training Discriminator weight Setback](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/CelebAGAN.ipynb) - Attempt to traing GANs with a new approach to holding back the discriminator's training. 
   * [Notebook results](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/GraphsForPaper-No-Feature-Matching.ipynb) 
